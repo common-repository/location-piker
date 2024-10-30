@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .heading1{
+   font-weight: bold;
+   font-family: Arial;
+   font-size: 18px;  
+   padding:10px 0px;
+  
+}
+.heading2{
+   font-weight: bold;
+   font-family: Arial;
+   font-size: 14px;
+   padding:5px 1px;  
+}
+.heading3{
+   font-weight: bold;
+   font-family: Arial;
+   font-size: 12px;
+    padding:2px 1px;   
+}
+
+.span{
+   margin-left:10px; 
+   margin-right:0px;
+   font-weight: bold;
+   font-size: 12px;
+   font-family: Arial;
+   padding:2px;
+ }
+.span1{
+   margin-left:10px; 
+   margin-right:0px;
+   font-weight: bold;
+   font-size: 14px;
+   font-family: Arial;
+   padding:2px;
+ }
+.checkbox-inline{
+  padding: 2px;
+  margin-left: 20px;
+}
